@@ -20,3 +20,8 @@ This project is a web-based dashboard that displays live headcount data for mult
 ```sh
 streamlit run app2.py
 ```
+
+
+```diff
+- Please note the email feature will not be functional as of 3/9/23 given that the API key will expire. Hence the reason for not securing. 
+```
